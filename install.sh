@@ -21,3 +21,9 @@ brew install git
 git config --global user.name "xxx"
 git config --global user.email "xxx@gmail.com"
 git config --global color.ui true 
+
+# install VirtualBox
+#   https://www.virtualbox.org/wiki/Downloads
+# install Vagrant
+#   https://www.vagrantup.com/downloads.html
+#   sudo installer -allowUntrusted -pkg /Volumes/Vagrant/vagrant.pkg -target /
