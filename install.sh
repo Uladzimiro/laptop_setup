@@ -11,10 +11,10 @@ cp .tmux.conf ~/
 # setup vim
 brew install vim
 cp .vimrc ~/
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-vim +PluginInstall +qall
 mkdir -p ~/.vim/colors/
 cp .vim/colors/solarized.vim ~/.vim/colors/
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+vim +PluginInstall +qall
 
 # setup git
 brew install git
