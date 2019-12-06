@@ -39,3 +39,5 @@ setopt hist_ignore_space
 setopt hist_verify
 setopt inc_append_history
 setopt share_history # share command history data
+
+export LANG=en_US.UTF-8
