@@ -16,6 +16,7 @@ Plugin 'tpope/vim-endwise'
 Plugin 'AndrewRadev/vim-eco'
 Plugin 'rust-lang/rust.vim'
 Plugin 'mustache/vim-mustache-handlebars'
+Plugin 'Chiel92/vim-autoformat'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
